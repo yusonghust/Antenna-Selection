@@ -2,7 +2,7 @@
 Some basic methods for antenna selection algorithm  
 
 It was done when I was an undergraduate, however, I don't focus on such field now.  
-The pdf file was written in Chinese, not in English. But you can find some related paper in the reference of the pdf file, it was in English. 
+The pdf file was written in Chinese, not in English. But you can find some related paper in the reference of the pdf file, it was in English. However, the reference will cover enough information about the codes. I only implement the algorithms mentioned in these literatures.
 
 # Reference
 [1] E. Telatar, “Capacity of multi-antenna Gaussian channels,” Eur. Trans.Telecommun., vol. 10, pp. 585–595, Nov. 1999.  
