@@ -1,5 +1,5 @@
 # Antenna-Selection
-Some basic methods for antenna selection algorithm  
+Some basic methods for antenna selection algorithm. These codes were tested in Matlab R2015b.
 
 It was done when I was an undergraduate, however, I don't focus on such field now.  
 The pdf file was written in Chinese, not in English. But you can find some related papers from the reference of the pdf file, it was in English. And, the reference will cover enough information about the codes. I only implement the algorithms mentioned in these literatures.
